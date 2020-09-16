@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+	<Question ans="2">
+		<Description><![CDATA[Is Narendra Modi the President of India?]]></Description>
+		<Options>
+			<Option>True</Option>
+			<Option>False</Option>
+		</Options>
+	</Question>
+	<Question ans="3">
+		<Description><![CDATA[Which country has the world's largest economy?]]></Description>
+		<Options>
+			<Option>India</Option>
+			<Option>Russia</Option>
+			<Option>USA</Option>
+			<Option>Singapore</Option>
+		</Options>
+	</Question>
+	<Question ans="1">
+		<Description><![CDATA[Is Hitler dead?]]></Description>
+		<Options>
+			<Option>True</Option>
+			<Option>False</Option>
+		</Options>
+	</Question>
+	
+	<Question ans="1">
+		<Description><![CDATA[Is Russia the largest country?]]></Description>
+		<Options>
+			<Option>True</Option>
+			<Option>False</Option>
+		</Options>
+	</Question>
+	
+	<Question ans="2">
+		<Description><![CDATA[Is Pluto a planet?]]></Description>
+		<Options>
+			<Option>True</Option>
+			<Option>False</Option>
+		</Options>
+	</Question>
+</Questions>
